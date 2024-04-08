@@ -1,4 +1,11 @@
 {
-    "this_is_json": "testing",
-    "inside2": "2"
+    "delivery_coin" : 1000,
+    "delivery_pixel" : 8000,
+    "sell_blacklist" : [],
+    "itm_popberrySeeds" : 80,
+    "itm_butterberryseeds" : 80,
+    "itm_cloverSeeds" : 80,
+    "itm_grainseeds" : 80,
+    "itm_grumpkinSeeds" : 0,
+    "itm_javabean" : 15
 }
